@@ -83,7 +83,7 @@ HOW TO USE
 
 Go to the Replay page.
 
-Enter a Riot ID (like Crocodice#431) or a Match ID (like NA1_1234567890).
+Enter a Riot ID (like Username#Tagline) or a Match ID (like NA1_1234567890).
 
 Click Find to load recent matches.
 
