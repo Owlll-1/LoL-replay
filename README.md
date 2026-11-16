@@ -8,7 +8,7 @@ Watch Summoner’s Rift matches unfold on a 2D map — see champion positions, m
 
 FEATURES (Current MVP)
 
-Resolve matches by Riot ID (e.g., Crocodice#431)
+Resolve matches by Riot ID (e.g., Rioter#123)
 
 Fetch match + timeline from Riot’s API
 
